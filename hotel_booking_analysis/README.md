@@ -25,7 +25,7 @@ Nicholas Parker (<span style="color:#2ecc71">10 babies</span>)
 ## ⏳ Temporal Trends
 Mid-Month Rush: <span style="color:#3498db">58,152 bookings</span> (1st-15th of month)
 
-# Peak Arrival Days:
+## Peak Arrival Days:
 
 <span style="color:#e74c3c">Friday</span> (19,631 arrivals)
 
@@ -45,10 +45,10 @@ Mid-Month Rush: <span style="color:#3498db">58,152 bookings</span> (1st-15th of 
 🔹 Enhance family services (some bookings include 10+ children)
 
 
-# 📝 Author
+### 📝 Author
 [anjara tafita] - Data Analyst
 
-# 📧 Email: anjaratafita8@gmail.com
+### 📧 Email: anjaratafita8@gmail.com
 
 
 ## 📌 Dataset Source
