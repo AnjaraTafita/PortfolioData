@@ -33,10 +33,15 @@ Peak Arrival Days:
 
 🛠 Tools Used
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> </p>
+
 💡 Business Recommendations
+
 🔹 Target key markets (Portugal, UK, France) with localized offers
+
 🔹 Boost loyalty programs (only 3.19% repeat guests)
+
 🔹 Adjust pricing for weekends (Friday-Thursday peak)
+
 🔹 Enhance family services (some bookings include 10+ children)
 
 
