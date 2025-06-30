@@ -51,7 +51,9 @@ anjaratafita8@gmail.com
 
 
 ## 📌 Dataset Source
-Antonio, N., Almeida, A., & Nunes, L. (2019). Hotel Booking Demand Datasets. Data in Brief, 22, 41-49.
+Antonio, N., Almeida, A., & Nunes, L. (2019). 
+Hotel Booking Demand Datasets.
+Data in Brief, 22, 41-49.
 
 <p align="center"> <img src="https://img.shields.io/badge/Data%20Analysis-Hospitality%20Sector-brightgreen" alt="Sector"> <img src="https://img.shields.io/badge/License-MIT-blue" alt="License"> </p>
 🎨 Color Reference
