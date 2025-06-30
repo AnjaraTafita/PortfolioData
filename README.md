@@ -1,4 +1,4 @@
-# 📊 Analyse des Réservations Hôtelières
+# 📊 projet I : Analyse des Réservations Hôtelières
 Exploration des Données (EDA) pour des Insights dans l'Hôtellerie
 
 ## 📌 <ins>Aperçu du Projet</ins>
