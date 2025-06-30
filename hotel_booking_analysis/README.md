@@ -1,7 +1,7 @@
 ## 👥 Customer Demographics
 
 ### Top 5 Countries: 
-<span style="color:#3498db">Portugal (PRT)</span>,<span style="color:#3498db">UK (GBR)</span>, France, Spain, Germany
+   <span style="color:#0969DA">Portugal (PRT)</span>,<span style="color:#3498db">UK (GBR)</span>, France, Spain, Germany
 
 ### Most Common Surnames:
 <span style="color:red">Smith</span>, <span style="color:#e74c3c">Johnson</span>, Williams, Jones, Brown
