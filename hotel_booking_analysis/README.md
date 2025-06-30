@@ -1,10 +1,15 @@
 🔍 Key Findings
+
 👥 Customer Demographics
-Top 5 Countries: <span style="color:#3498db">Portugal (PRT)</span>, <span style="color:#3498db">UK (GBR)</span>, France, Spain, Germany
 
-Most Common Surnames: <span style="color:#e74c3c">Smith</span>, <span style="color:#e74c3c">Johnson</span>, Williams, Jones, Brown
+Top 5 Countries: 
+<span style="color:#3498db">Portugal (PRT)</span>,<span style="color:#3498db">UK (GBR)</span>, France, Spain, Germany
 
-Frequent Area Codes: <span style="color:#9b59b6">799</span>, <span style="color:#9b59b6">185</span>, 541
+Most Common Surnames:
+<span style="color:#e74c3c">Smith</span>, <span style="color:#e74c3c">Johnson</span>, Williams, Jones, Brown
+
+Frequent Area Codes:
+<span style="color:#9b59b6">799</span>, <span style="color:#9b59b6">185</span>, 541
 
 📊 Booking Insights
 Repeat Guests: Only <span style="color:#f39c12">3.19%</span> of customers
