@@ -22,4 +22,4 @@ Tendances temporelles (modèles d'arrivée, saisonnalité)
 
 ✅ Améliorer la planification opérationnelle (jours d'affluence, allocation des ressources)
 
-# Lien du projet [hotel_booking_analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/hotel_booking_analysis) 
+### Lien du projet [hotel_booking_analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/hotel_booking_analysis) 
