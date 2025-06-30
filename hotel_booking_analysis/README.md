@@ -1,5 +1,3 @@
-# 🔍 Key Findings
-
 ## 👥 Customer Demographics
 
 ### Top 5 Countries: 
@@ -45,10 +43,11 @@ Mid-Month Rush: <span style="color:#3498db">58,152 bookings</span> (1st-15th of 
 🔹 Enhance family services (some bookings include 10+ children)
 
 
-### 📝 Author
-[anjara tafita] - Data Analyst
+ 📝 Author
+anjara tafita - Data Analyst
 
-### 📧 Email: anjaratafita8@gmail.com
+ 📧 Email:
+anjaratafita8@gmail.com
 
 
 ## 📌 Dataset Source
