@@ -25,7 +25,6 @@ Tendances temporelles (modèles d'arrivée, saisonnalité)
 ### Lien du projet [hotel_booking_analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/hotel_booking_analysis) 
 
 
-
 # 📊 projet II : Analyse de Prédiction de Pluie
 Ce dépôt contient un notebook Jupyter (`Rainfall analysis - MLSUP.ipynb`) pour prédire la pluie à Sydney (2008-2017) à l'aide d'algorithmes de classification :
 
@@ -36,7 +35,7 @@ Prédire si demain sera pluvieux (`RainTomorrow`) avec des données météorolog
 
 Les modèles sont évalués via Accuracy, Jaccard Index, F1-Score, et LogLoss (Régression Logistique).
 
-## Jeu de Données
+## <ins>Jeu de Données</ins>
 Données météorologiques quotidiennes (2008-2017) de Sydney, issues du Bureau of Meteorology australien. 
 
 Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et `RainTomorrow` (cible).
