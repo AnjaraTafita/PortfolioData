@@ -50,3 +50,6 @@ Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et
 | Arbre de Décision   | 0.800000  | 0.620000| 0.750000 | N/A     |
 | Régression Logistique| 0.839695  | 0.665041| 0.790257 | 2.71473 |
 | SVM                 | 0.850382  | 0.683641| 0.804618 | N/A     |
+
+
+### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
