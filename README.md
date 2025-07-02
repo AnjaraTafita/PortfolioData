@@ -99,3 +99,28 @@ prix des maisons en fonction de leurs attributs.
 ✅ Visualisation : Créer des visualisations pour mieux comprendre les relations entre les variables et les prédictions du modèle.
 
 ### Lien du projet [Prédiction des Prix Immobiliers](https://github.com/AnjaraTafita/PortfolioData/tree/main/prevision%20du%20prix%20des%20maisons) 
+
+
+# 📊 projet IV :Prédiction des Prix Immobiliers
+Ce projet vise à prédire le rendement des cultures en utilisant des données météorologiques et agronomiques.
+L'objectif est de développer un modèle capable d'estimer le rendement des cultures (en quintaux par acre) en fonction de facteurs tels que les précipitations, la température, l'utilisation d'engrais et les niveaux de nutriments (azote, phosphore, potassium). Le notebook utilise des techniques d'analyse exploratoire des données (EDA) et des modèles de prédiction pour atteindre cet objectif.
+
+## 🎯<ins> Objectifs Clés </ins> 
+L'objectif principal de ce projet est de :
+
+✅ Prédire le rendement des cultures en fonction des variables environnementales et agronomiques.
+
+✅ Comprendre les relations entre les différents facteurs (pluie, température, engrais, nutriments) et le rendement.
+
+✅ Fournir des insights aux agriculteurs et aux agronomes pour optimiser les pratiques agricoles et maximiser les rendements.
+
+## 🚀 Impact potentiel ## 
+Optimisation des ressources : Aider les agriculteurs à utiliser plus efficacement les engrais et les nutriments, réduisant ainsi les coûts et minimisant l'impact environnemental.
+
+Adaptation aux conditions climatiques : Permettre une meilleure planification en fonction des prévisions météorologiques.
+
+Amélioration de la sécurité alimentaire : En prédisant les rendements, les parties prenantes peuvent anticiper les pénuries et ajuster les stratégies agricoles.
+
+Support aux décisions politiques : Fournir des données précieuses pour les politiques agricoles et les subventions.
+
+### Lien du projet [Prédiction des Prix Immobiliers](https://github.com/AnjaraTafita/PortfolioData/tree/main/prevision%20du%20prix%20des%20maisons) 
