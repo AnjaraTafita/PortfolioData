@@ -55,7 +55,7 @@ Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et
 ### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
 
 
-# 📊 projet I : Analyse des Réservations Hôtelières
+# 📊 projet III : Analyse des Réservations Hôtelières
 Objectif :
 Ce projet vise à prédire si un client est susceptible de quitter une banque (attrition) en analysant ses données démographiques et financières. L'objectif est d'aider la banque à identifier les clients à risque et à mettre en place des stratégies de rétention ciblées.
 
@@ -76,4 +76,26 @@ Développer un modèle prédictif permettant d'identifier les clients susceptibl
 
  ## **Impact** : Optimiser les ressources marketing et améliorer la satisfaction client.
  
+### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
+
+
+# 📊 projet IV :Prédiction des Prix Immobiliers
+
+## 📌 <ins> Aperçu du Projet </ins>
+Ce projet vise à prédire les prix des maisons en utilisant un ensemble de données contenant diverses caractéristiques des propriétés. 
+L'objectif est d'explorer, prétraiter les données, et construire un modèle de machine learning capable d'estimer avec précision le 
+prix des maisons en fonction de leurs attributs.
+
+## 🎯<ins> Objectifs Clés </ins> 
+
+✅ Analyse des Données : Explorer et comprendre les données pour identifier les caractéristiques influençant le prix des maisons.
+
+✅ Prétraitement : Nettoyer et préparer les données pour l'entraînement des modèles (normalisation, gestion des valeurs manquantes, etc.).
+
+✅ Modélisation : Construire et évaluer différents modèles de régression pour prédire les prix immobiliers.
+
+✅ Optimisation : Améliorer la performance des modèles en ajustant les hyperparamètres et en sélectionnant les meilleures caractéristiques.
+
+✅ Visualisation : Créer des visualisations pour mieux comprendre les relations entre les variables et les prédictions du modèle.
+
 ### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
