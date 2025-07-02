@@ -53,3 +53,27 @@ Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et
 
 
 ### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
+
+
+# 📊 projet I : Analyse des Réservations Hôtelières
+Objectif :
+Ce projet vise à prédire si un client est susceptible de quitter une banque (attrition) en analysant ses données démographiques et financières. L'objectif est d'aider la banque à identifier les clients à risque et à mettre en place des stratégies de rétention ciblées.
+
+## 📌 <ins> Aperçu du Projet </ins>
+Problématique : L'attrition clientèle a un impact significatif sur la rentabilité des banques.
+
+Solution : Utilisation de techniques de science des données pour prédire les clients à risque.
+
+Résultat : Un modèle prédictif permettant d'identifier les clients susceptibles de quitter la banque
+
+## 🎯<ins> Objectifs Clés </ins> 
+Développer un modèle prédictif permettant d'identifier les clients susceptibles de quitter une banque ("churn") en analysant leurs données démographiques et financières (score de crédit, âge, solde, etc.). L'objectif final est d'aider la banque à anticiper l'attrition et à mettre en place des stratégies de rétention ciblées pour améliorer la fidélisation et la rentabilité.  
+
+**Points clés** :  
+- ✅ Prédiction binaire : Le modèle classifie les clients en deux catégories : "risque de départ" (`Exited=1`) ou "fidélisation" (`Exited=0`).  
+- ✅ Facteurs d'influence : Identifier les variables les plus corrélées au churn (ex. âge élevé, inactivité, faible nombre de produits souscrits).  
+- ✅ Actionnabilité : Permettre à la banque d'intervenir en amont (offres personnalisées, services adaptés) pour réduire le taux d'attrition.  
+
+ ## **Impact** : Optimiser les ressources marketing et améliorer la satisfaction client.
+ 
+### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
