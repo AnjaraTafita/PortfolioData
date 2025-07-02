@@ -52,7 +52,7 @@ Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et
 | SVM                 | 0.850382  | 0.683641| 0.804618 | N/A     |
 
 
-### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
+### Lien du projet [analyse prediction pluie](https://github.com/AnjaraTafita/PortfolioData/tree/main/analyse%20prediction%20pluie) 
 
 
 # 📊 projet III : Prévision du taux de désabonnement des clients
