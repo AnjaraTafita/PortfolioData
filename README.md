@@ -55,7 +55,7 @@ Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et
 ### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
 
 
-# 📊 projet III : Analyse des Réservations Hôtelières
+# 📊 projet III : Prévision du taux de désabonnement des clients
 Objectif :
 Ce projet vise à prédire si un client est susceptible de quitter une banque (attrition) en analysant ses données démographiques et financières. L'objectif est d'aider la banque à identifier les clients à risque et à mettre en place des stratégies de rétention ciblées.
 
@@ -76,7 +76,7 @@ Développer un modèle prédictif permettant d'identifier les clients susceptibl
 
  ## **Impact** : Optimiser les ressources marketing et améliorer la satisfaction client.
  
-### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
+### Lien du projet [Prévision du taux de désabonnement des clients](https://github.com/AnjaraTafita/PortfolioData/tree/main/Pr%C3%A9vision%20du%20taux%20de%20d%C3%A9sabonnement%20des%20clients) 
 
 
 # 📊 projet IV :Prédiction des Prix Immobiliers
@@ -98,4 +98,4 @@ prix des maisons en fonction de leurs attributs.
 
 ✅ Visualisation : Créer des visualisations pour mieux comprendre les relations entre les variables et les prédictions du modèle.
 
-### Lien du projet [Rainfall analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/) 
+### Lien du projet [Prédiction des Prix Immobiliers](https://github.com/AnjaraTafita/PortfolioData/tree/main/prevision%20du%20prix%20des%20maisons) 
