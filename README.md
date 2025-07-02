@@ -101,7 +101,7 @@ prix des maisons en fonction de leurs attributs.
 ### Lien du projet [Prédiction des Prix Immobiliers](https://github.com/AnjaraTafita/PortfolioData/tree/main/prevision%20du%20prix%20des%20maisons) 
 
 
-# 📊 projet IV :Prédiction des Prix Immobiliers
+# 📊 projet V :Prévision du rendement des cultures
 Ce projet vise à prédire le rendement des cultures en utilisant des données météorologiques et agronomiques.
 L'objectif est de développer un modèle capable d'estimer le rendement des cultures (en quintaux par acre) en fonction de facteurs tels que les précipitations, la température, l'utilisation d'engrais et les niveaux de nutriments (azote, phosphore, potassium). Le notebook utilise des techniques d'analyse exploratoire des données (EDA) et des modèles de prédiction pour atteindre cet objectif.
 
@@ -123,4 +123,4 @@ Amélioration de la sécurité alimentaire : En prédisant les rendements, les p
 
 Support aux décisions politiques : Fournir des données précieuses pour les politiques agricoles et les subventions.
 
-### Lien du projet [Prédiction des Prix Immobiliers](https://github.com/AnjaraTafita/PortfolioData/tree/main/prevision%20du%20prix%20des%20maisons) 
+### Lien du projet [Prévision du rendement des cultures](https://github.com/AnjaraTafita/PortfolioData/tree/main/Pr%C3%A9vision%20du%20rendement%20des%20cultures) 
