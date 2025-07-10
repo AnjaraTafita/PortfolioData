@@ -23,7 +23,7 @@ Tendances temporelles (modèles d'arrivée, saisonnalité)
 
 ### Lien du projet [hotel_booking_analysis](https://github.com/AnjaraTafita/PortfolioData/tree/main/hotel_booking_analysis) 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 projet II : Analyse de Prédiction de Pluie
 Ce dépôt contient un notebook Jupyter (`Rainfall analysis - MLSUP.ipynb`) pour prédire la pluie à Sydney (2008-2017) à l'aide d'algorithmes de classification :
 
@@ -52,8 +52,7 @@ Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et
 
 
 ### Lien du projet [analyse prediction pluie](https://github.com/AnjaraTafita/PortfolioData/tree/main/analyse%20prediction%20pluie) 
-
-![](https://i.pinimg.com/1200x/54/d1/30/54d130d579a5e67452bce768824271de.jpg)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 projet III : Prévision du taux de désabonnement des clients
 Objectif :
 Ce projet vise à prédire si un client est susceptible de quitter une banque (attrition) en analysant ses données démographiques et financières. L'objectif est d'aider la banque à identifier les clients à risque et à mettre en place des stratégies de rétention ciblées.
@@ -77,7 +76,7 @@ Développer un modèle prédictif permettant d'identifier les clients susceptibl
  
 ### Lien du projet [Prévision du taux de désabonnement des clients](https://github.com/AnjaraTafita/PortfolioData/tree/main/Pr%C3%A9vision%20du%20taux%20de%20d%C3%A9sabonnement%20des%20clients) 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 projet IV :Prédiction des Prix Immobiliers
 
 ## 📌 <ins> Aperçu du Projet </ins>
@@ -99,7 +98,7 @@ prix des maisons en fonction de leurs attributs.
 
 ### Lien du projet [Prédiction des Prix Immobiliers](https://github.com/AnjaraTafita/PortfolioData/tree/main/prevision%20du%20prix%20des%20maisons) 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📊 projet V :Prévision du rendement des cultures
 Ce projet vise à prédire le rendement des cultures en utilisant des données météorologiques et agronomiques.
 L'objectif est de développer un modèle capable d'estimer le rendement des cultures (en quintaux par acre) en fonction de facteurs tels que les précipitations, la température, l'utilisation d'engrais et les niveaux de nutriments (azote, phosphore, potassium). Le notebook utilise des techniques d'analyse exploratoire des données (EDA) et des modèles de prédiction pour atteindre cet objectif.
