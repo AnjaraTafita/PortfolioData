@@ -1,6 +1,5 @@
 # 📊 projet I : Analyse des Réservations Hôtelières
 Exploration des Données (EDA) pour des Insights dans l'Hôtellerie
-![](https://i.pinimg.com/1200x/54/d1/30/54d130d579a5e67452bce768824271de.jpg)
 ## 📌 <ins>Aperçu du Projet</ins>
 
 Ce projet analyse 119 390 réservations hôtelières (hôtels urbains et resorts)
@@ -54,7 +53,7 @@ Contient 24 colonnes, incluant `MinTemp`, `MaxTemp`, `Rainfall`, `RainToday`, et
 
 ### Lien du projet [analyse prediction pluie](https://github.com/AnjaraTafita/PortfolioData/tree/main/analyse%20prediction%20pluie) 
 
-
+![](https://i.pinimg.com/1200x/54/d1/30/54d130d579a5e67452bce768824271de.jpg)
 # 📊 projet III : Prévision du taux de désabonnement des clients
 Objectif :
 Ce projet vise à prédire si un client est susceptible de quitter une banque (attrition) en analysant ses données démographiques et financières. L'objectif est d'aider la banque à identifier les clients à risque et à mettre en place des stratégies de rétention ciblées.
