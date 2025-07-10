@@ -1,6 +1,6 @@
 # 📊 projet I : Analyse des Réservations Hôtelières
 Exploration des Données (EDA) pour des Insights dans l'Hôtellerie
-
+![](https://i.pinimg.com/1200x/54/d1/30/54d130d579a5e67452bce768824271de.jpg)
 ## 📌 <ins>Aperçu du Projet</ins>
 
 Ce projet analyse 119 390 réservations hôtelières (hôtels urbains et resorts)
